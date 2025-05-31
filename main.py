@@ -1,7 +1,6 @@
 # Directory: retail_data_pipeline
 # File: main.py
 
-from scripts.extract import extract_data
 from scripts.transform import transform_data
 from scripts.load import load_data
 
